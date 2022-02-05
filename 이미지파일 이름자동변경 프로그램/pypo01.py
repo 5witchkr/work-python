@@ -31,7 +31,7 @@ def save_data():
 
 
 app = Tk()
-app.title('USGTF-KOREA')
+app.title('KOREA')
 app.geometry('300x200')
 
 Label(app, text = "면허알파벳:").pack()
